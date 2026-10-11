@@ -9,7 +9,7 @@
 <text x="55" y="278" fill="#A7BDC5" font-size="22">Свои цвета. Удобное управление. Меньше отвлечений.</text>
 <text x="55" y="402" fill="#5DE3F0" font-size="17">ANDROID 8.0+</text>
 <text x="292" y="402" fill="#A7BDC5" font-size="17">WebView</text>
-<text x="469" y="402" fill="#A7BDC5" font-size="17">APK · 0.1.0 · Предварительная версия</text>
+<text x="469" y="402" fill="#A7BDC5" font-size="17">APK · Выпуски на GitHub</text>
 </g>
 <g transform="translate(968 61) scale(.48)"><path d="M446,256C446,361 361,446 256,446C137,446 38,360 38,250C38,146 137,60 256,60C361,60 446,150 446,256ZM438,264A162,162 0,1 0,114 264A162,162 0,1 0,438 264Z" fill="#5DE3F0" fill-rule="evenodd"/></g>
 </svg>
