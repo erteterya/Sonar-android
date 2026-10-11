@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="SONAR для Android — браузер под твою руку">
+<rect width="1280" height="440" rx="24" fill="#06121A"/>
+<path d="M52 358H1228" stroke="#233944"/>
+<g transform="translate(49 42) scale(.13)"><path d="M446,256C446,361 361,446 256,446C137,446 38,360 38,250C38,146 137,60 256,60C361,60 446,150 446,256ZM438,264A162,162 0,1 0,114 264A162,162 0,1 0,438 264Z" fill="#5DE3F0" fill-rule="evenodd"/></g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="129" y="89" fill="#DCF8FC" font-size="28" letter-spacing="7" font-weight="600">SONAR</text>
+<text x="55" y="151" fill="#74A0AC" font-size="17" letter-spacing="3">ДЛЯ ANDROID</text>
+<text x="52" y="224" fill="#F0F8FA" font-size="58" font-weight="600" letter-spacing="-2">Браузер под твою руку.</text>
+<text x="55" y="278" fill="#A7BDC5" font-size="22">Свои цвета. Удобное управление. Меньше отвлечений.</text>
+<text x="55" y="402" fill="#5DE3F0" font-size="17">ANDROID 8.0+</text>
+<text x="292" y="402" fill="#A7BDC5" font-size="17">WebView</text>
+<text x="469" y="402" fill="#A7BDC5" font-size="17">APK · 0.1.0 · Предварительная версия</text>
+</g>
+<g transform="translate(968 61) scale(.48)"><path d="M446,256C446,361 361,446 256,446C137,446 38,360 38,250C38,146 137,60 256,60C361,60 446,150 446,256ZM438,264A162,162 0,1 0,114 264A162,162 0,1 0,438 264Z" fill="#5DE3F0" fill-rule="evenodd"/></g>
+</svg>
